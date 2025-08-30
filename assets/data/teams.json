@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "name": "America Mineiro",
+    "logo": "assets/images/america_mineiro.png"
+  },
+  { "id": 2, "name": "Amazonas Am", "logo": "assets/images/amazonas_am.png" },
+  {
+    "id": 3,
+    "name": "Athletic Club Mg",
+    "logo": "assets/images/athletic_club_mg.png"
+  },
+  {
+    "id": 4,
+    "name": "Athletico Paranaense",
+    "logo": "assets/images/athletico_paranaense.png"
+  },
+  {
+    "id": 5,
+    "name": "Atletico Goianiense",
+    "logo": "assets/images/atletico_goianiense.png"
+  },
+  {
+    "id": 6,
+    "name": "Atletico Mineiro",
+    "logo": "assets/images/atletico_mineiro.png"
+  },
+  { "id": 7, "name": "Avai", "logo": "assets/images/avai.png" },
+  { "id": 8, "name": "Bahia", "logo": "assets/images/bahia.png" },
+  { "id": 9, "name": "Botafogo", "logo": "assets/images/botafogo.png" },
+  { "id": 10, "name": "Botafogo Sp", "logo": "assets/images/botafogo_sp.png" },
+  { "id": 11, "name": "Ceara", "logo": "assets/images/ceara.png" },
+  { "id": 12, "name": "Chapecoense", "logo": "assets/images/chapecoense.png" },
+  { "id": 13, "name": "Coritiba", "logo": "assets/images/coritiba.png" },
+  { "id": 14, "name": "Corinthians", "logo": "assets/images/corinthians.png" },
+  { "id": 15, "name": "Crb", "logo": "assets/images/crb.png" },
+  { "id": 16, "name": "Criciuma", "logo": "assets/images/criciuma.png" },
+  { "id": 17, "name": "Cruzeiro", "logo": "assets/images/cruzeiro.png" },
+  { "id": 18, "name": "Cuiaba", "logo": "assets/images/cuiaba.png" },
+  {
+    "id": 19,
+    "name": "Ferroviaria Sp",
+    "logo": "assets/images/ferroviaria_sp.png"
+  },
+  { "id": 20, "name": "Flamengo", "logo": "assets/images/flamengo.png" },
+  { "id": 21, "name": "Fluminense", "logo": "assets/images/fluminense.png" },
+  { "id": 22, "name": "Fortaleza", "logo": "assets/images/fortaleza.png" },
+  { "id": 23, "name": "Generico", "logo": "assets/images/generico.png" },
+  {
+    "id": 24,
+    "name": "Goias Esporte Clube Go",
+    "logo": "assets/images/goias_esporte_clube_go.png"
+  },
+  { "id": 25, "name": "Gremio", "logo": "assets/images/gremio.png" },
+  {
+    "id": 26,
+    "name": "Gremio Novorizontino",
+    "logo": "assets/images/gremio_novorizontino.png"
+  },
+  {
+    "id": 27,
+    "name": "Internacional",
+    "logo": "assets/images/internacional.png"
+  },
+  { "id": 28, "name": "Juventude", "logo": "assets/images/juventude.png" },
+  { "id": 29, "name": "Mirassol Sp", "logo": "assets/images/mirassol_sp.png" },
+  {
+    "id": 30,
+    "name": "Operario Ferroviario Pr",
+    "logo": "assets/images/operario_ferroviario_pr.png"
+  },
+  { "id": 31, "name": "Palmeiras", "logo": "assets/images/palmeiras.png" },
+  { "id": 32, "name": "Paysandu", "logo": "assets/images/paysandu.png" },
+  {
+    "id": 33,
+    "name": "Red Bull Bragantino",
+    "logo": "assets/images/red_bull_bragantino.png"
+  },
+  { "id": 34, "name": "Remo", "logo": "assets/images/remo.png" },
+  { "id": 35, "name": "Santos", "logo": "assets/images/santos.png" },
+  { "id": 36, "name": "Sao Paulo", "logo": "assets/images/sao_paulo.png" },
+  {
+    "id": 37,
+    "name": "Sport Recife",
+    "logo": "assets/images/sport_recife.png"
+  },
+  {
+    "id": 38,
+    "name": "Vasco Da Gama",
+    "logo": "assets/images/vasco_da_gama.png"
+  },
+  {
+    "id": 39,
+    "name": "Vila Nova Go",
+    "logo": "assets/images/vila_nova_go.png"
+  },
+  { "id": 40, "name": "Vitoria BA", "logo": "assets/images/vitoria.png" },
+  {
+    "id": 41,
+    "name": "Volta Redonda",
+    "logo": "assets/images/volta_redonda.png"
+  }
+]
