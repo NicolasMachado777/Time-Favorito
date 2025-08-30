@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Time Favorito',
       theme: ThemeData(primarySwatch: Colors.blue),
-      initialRoute: Routes.home,
+      initialRoute: Routes.splash,
       onGenerateRoute: Routes.generateRoute,
       debugShowCheckedModeBanner: false,
     );

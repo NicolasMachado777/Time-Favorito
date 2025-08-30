@@ -11,10 +11,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  // Cria a instancia do repositorio
   final userSettingsRepository = UserSettingsRepository();
-
-  // Cria a instancia do repositorio
   Future<Team?>? _future;
 
   @override

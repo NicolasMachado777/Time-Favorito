@@ -1,4 +1,3 @@
-
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -6,6 +5,17 @@ import '../model/team.dart';
 
 class UserSettingsRepository {
   static const _key = 'favorite_team';
+
+  static const _keyShowIntro = 'show_intro';
+  Future<bool> getShowIntro() async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getBool(_keyShowIntro) ?? true;
+  }
+
+  Future<void> setShowIntro(bool value) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool(_keyShowIntro, value);
+  }
 
   Future<Team?> getTeam() async {
     final prefs = await SharedPreferences.getInstance();

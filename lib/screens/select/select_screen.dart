@@ -11,9 +11,7 @@ class SelectScreen extends StatefulWidget {
 }
 
 class _SelectScreenState extends State<SelectScreen> {
-  // Cria a instancia do repositorio
   final userSettingsRepository = UserSettingsRepository();
-  // Cria a instancia do repositorio
   final teamsRepository = TeamsRepository();
   late Future<List<Team>> _teamsFuture;
   List<Team> _allTeams = [];
@@ -21,7 +19,6 @@ class _SelectScreenState extends State<SelectScreen> {
   @override
   void initState() {
     super.initState();
-    // carrega o future uma vez
     _teamsFuture = teamsRepository.load();
   }
 
